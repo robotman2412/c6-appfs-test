@@ -1,0 +1,6 @@
+[submodule "components/appfs"]
+	path = launcher/components/appfs
+	url = https://github.com/badgeteam/esp32-component-appfs
+[submodule "bootloader"]
+	path = bootloader
+	url = https://badgeteam@github.com/badgeteam/kilobootloader
